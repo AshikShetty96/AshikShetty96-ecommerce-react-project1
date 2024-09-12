@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/css/main.a42c0880.css",
-    "main.js": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/js/main.3aa28105.js",
-    "static/media/login-signup-image.png": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/login-signup-image.d5854542e6ccba91d603.png",
-    "static/media/LGTV.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/LGTV.230df7ec216ceb312d95.jpg",
-    "static/media/OneplusTV.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/OneplusTV.24be6f2dfd723c85e398.jpg",
-    "static/media/AppleUltra.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/AppleUltra.9d1f3c2611d9b2fe1315.jpg",
-    "static/media/RealmeTab.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/RealmeTab.04533b1a617f9a4c2266.jpg",
-    "static/media/pTronbuds.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/pTronbuds.cccd60ccc1669bbaa538.jpg",
-    "static/media/AppleSE.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/AppleSE.c59a349ac8eee9806db1.jpg",
-    "static/media/HP.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/HP.27fa4f454b802a3cd30e.jpg",
-    "static/media/LLPC.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/LLPC.a866dd19fff144a5e410.jpg",
-    "static/media/lenovo.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/lenovo.ab3ae683b017ab10f066.jpg",
-    "static/media/Logo1.png": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/Logo1.d626f746994d6a4a8d6e.png",
-    "static/media/ApplePhone2.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/ApplePhone2.079eeb72d7cfa66b6403.jpg",
-    "static/media/ApplePhone1.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/ApplePhone1.7cce2e96b97f93af9685.jpg",
-    "static/media/Applebuds.jpg": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/media/Applebuds.1bc75469d1039a58348a.jpg",
-    "index.html": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/index.html",
-    "main.a42c0880.css.map": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/css/main.a42c0880.css.map",
-    "main.3aa28105.js.map": "/AshikShetty96/AshikShetty96-ecommerce-react-project1/static/js/main.3aa28105.js.map"
+    "main.css": "/AshikShetty96-ecommerce-react-project1/static/css/main.a42c0880.css",
+    "main.js": "/AshikShetty96-ecommerce-react-project1/static/js/main.20f79b54.js",
+    "static/media/login-signup-image.png": "/AshikShetty96-ecommerce-react-project1/static/media/login-signup-image.d5854542e6ccba91d603.png",
+    "static/media/LGTV.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/LGTV.230df7ec216ceb312d95.jpg",
+    "static/media/OneplusTV.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/OneplusTV.24be6f2dfd723c85e398.jpg",
+    "static/media/AppleUltra.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/AppleUltra.9d1f3c2611d9b2fe1315.jpg",
+    "static/media/RealmeTab.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/RealmeTab.04533b1a617f9a4c2266.jpg",
+    "static/media/pTronbuds.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/pTronbuds.cccd60ccc1669bbaa538.jpg",
+    "static/media/AppleSE.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/AppleSE.c59a349ac8eee9806db1.jpg",
+    "static/media/HP.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/HP.27fa4f454b802a3cd30e.jpg",
+    "static/media/LLPC.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/LLPC.a866dd19fff144a5e410.jpg",
+    "static/media/lenovo.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/lenovo.ab3ae683b017ab10f066.jpg",
+    "static/media/Logo1.png": "/AshikShetty96-ecommerce-react-project1/static/media/Logo1.d626f746994d6a4a8d6e.png",
+    "static/media/ApplePhone2.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/ApplePhone2.079eeb72d7cfa66b6403.jpg",
+    "static/media/ApplePhone1.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/ApplePhone1.7cce2e96b97f93af9685.jpg",
+    "static/media/Applebuds.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/Applebuds.1bc75469d1039a58348a.jpg",
+    "index.html": "/AshikShetty96-ecommerce-react-project1/index.html",
+    "main.a42c0880.css.map": "/AshikShetty96-ecommerce-react-project1/static/css/main.a42c0880.css.map",
+    "main.20f79b54.js.map": "/AshikShetty96-ecommerce-react-project1/static/js/main.20f79b54.js.map"
   },
   "entrypoints": [
     "static/css/main.a42c0880.css",
-    "static/js/main.3aa28105.js"
+    "static/js/main.20f79b54.js"
   ]
 }

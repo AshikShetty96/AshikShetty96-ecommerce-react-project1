@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AshikShetty96-ecommerce-react-project1/static/css/main.a42c0880.css",
-    "main.js": "/AshikShetty96-ecommerce-react-project1/static/js/main.20f79b54.js",
+    "main.css": "/AshikShetty96-ecommerce-react-project1/static/css/main.3cf146a0.css",
+    "main.js": "/AshikShetty96-ecommerce-react-project1/static/js/main.4ef75115.js",
     "static/media/login-signup-image.png": "/AshikShetty96-ecommerce-react-project1/static/media/login-signup-image.d5854542e6ccba91d603.png",
     "static/media/LGTV.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/LGTV.230df7ec216ceb312d95.jpg",
     "static/media/OneplusTV.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/OneplusTV.24be6f2dfd723c85e398.jpg",
@@ -15,13 +15,16 @@
     "static/media/Logo1.png": "/AshikShetty96-ecommerce-react-project1/static/media/Logo1.d626f746994d6a4a8d6e.png",
     "static/media/ApplePhone2.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/ApplePhone2.079eeb72d7cfa66b6403.jpg",
     "static/media/ApplePhone1.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/ApplePhone1.7cce2e96b97f93af9685.jpg",
+    "static/media/paytm.png": "/AshikShetty96-ecommerce-react-project1/static/media/paytm.05721a09336acdffb980.png",
+    "static/media/paypal.png": "/AshikShetty96-ecommerce-react-project1/static/media/paypal.9907652fbdf2226d490a.png",
+    "static/media/google-pay.png": "/AshikShetty96-ecommerce-react-project1/static/media/google-pay.851fc93336bdc00c0e63.png",
     "static/media/Applebuds.jpg": "/AshikShetty96-ecommerce-react-project1/static/media/Applebuds.1bc75469d1039a58348a.jpg",
     "index.html": "/AshikShetty96-ecommerce-react-project1/index.html",
-    "main.a42c0880.css.map": "/AshikShetty96-ecommerce-react-project1/static/css/main.a42c0880.css.map",
-    "main.20f79b54.js.map": "/AshikShetty96-ecommerce-react-project1/static/js/main.20f79b54.js.map"
+    "main.3cf146a0.css.map": "/AshikShetty96-ecommerce-react-project1/static/css/main.3cf146a0.css.map",
+    "main.4ef75115.js.map": "/AshikShetty96-ecommerce-react-project1/static/js/main.4ef75115.js.map"
   },
   "entrypoints": [
-    "static/css/main.a42c0880.css",
-    "static/js/main.20f79b54.js"
+    "static/css/main.3cf146a0.css",
+    "static/js/main.4ef75115.js"
   ]
 }

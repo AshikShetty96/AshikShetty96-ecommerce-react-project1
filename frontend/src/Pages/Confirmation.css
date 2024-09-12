@@ -1,0 +1,77 @@
+.confirmation-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.confirmation-form {
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.payment-options {
+    margin-top: 20px;
+}
+
+.payment-option {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.payment-option.selected {
+    border-color: #28a745;
+    background-color: #f1f1f1;
+}
+
+.payment-option img {
+    width: 50px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.payment-option span {
+    font-size: 18px;
+    color: #333;
+}
+
+.confirm-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.confirm-button:hover {
+    background-color: #218838;
+}
+
+.confirmation-message {
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.confirmation-message h1 {
+    font-size: 2em;
+    color: #28a745;
+}
+
+.confirmation-message p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+.confirmation-animation img {
+    width: 150px;
+    height: auto;
+    margin-top: 20px;
+}

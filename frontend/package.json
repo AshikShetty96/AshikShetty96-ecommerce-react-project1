@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AshikShetty96.github.io/AshikShetty96/AshikShetty96-ecommerce-react-project1",
+  "homepage": "https://AshikShetty96.github.io/AshikShetty96-ecommerce-react-project1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

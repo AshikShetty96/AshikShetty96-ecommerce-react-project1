@@ -1,29 +1,31 @@
-
 import './App.css';
 import Navbar from './Components/Navbar/Navbar';
-import { BrowserRouter, BrowserRouter as Router, Routes, Route, Switch, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import LoginSignup from './Pages/LoginSignup';
-import ShopCategory from './Pages/ShopCategory';
 import Shop from './Pages/Shop';
-import Cart from './Pages/Cart';
 import Product from './Pages/Product';
-
-
+import Cart from './Pages/Cart';
+import Checkout from './Pages/Checkout';
+import Address from './Pages/Address';
+import Confirmation from './Pages/Confirmation';
 
 function App() {
   return (
     <div>
-      <BrowserRouter>
-      <Navbar/>
-      <Routes>
-      <Route path='/' element={<Shop/>}/>
-      <Route path='/product' element={<Product/>}>
-        <Route path=':productId' element={<Product/>}/>
-      </Route>
-      <Route path='/cart' element={<Cart/>}/>
-      <Route path='/login' element={<LoginSignup/>}/>
-      </Routes>
-      </BrowserRouter>
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route path='/' element={<LoginSignup />} />
+          <Route path='/shop' element={<Shop />} />
+          <Route path='/product' element={<Product />}>
+            <Route path=':productId' element={<Product />} />
+          </Route>
+          <Route path='/cart' element={<Cart />} />
+          <Route path='/checkout' element={<Checkout />} />
+          <Route path='/address' element={<Address />} />
+          <Route path='/confirmation' element={<Confirmation />} />
+        </Routes>
+      </Router>
     </div>
   );
 }

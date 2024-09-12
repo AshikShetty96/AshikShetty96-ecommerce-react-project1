@@ -1,0 +1,29 @@
+/* Checkout.css */
+.checkout-container {
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.checkout-details {
+    margin: 20px auto;
+    max-width: 600px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.confirm-order-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.confirm-order-button:hover {
+    background-color: #218838;
+}
